@@ -11,4 +11,6 @@ Obten aleatoriamente el nombre de tu amigo secreto.
 ## Cómo usar
 1. Abre [Amigo Secreto](https://ernestofranch.github.io/challenges-oracle-one/) en tu navegador.
 2. Ingresa los nombres de tus amigos y da click en Añadir.
+    Puedes asignar números a los nombres de tus amigos e ingresarlos en la barra. ¡Esto lo hará más secreto!
 3. Da click en Sortear amigo ¡Y conoce a tu Amigo Secreto!
+
